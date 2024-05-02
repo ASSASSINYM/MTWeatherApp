@@ -49,6 +49,7 @@
 		2DCE426A2BE39B67005EB40A /* MTWeatherAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MTWeatherAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DCE426E2BE39B67005EB40A /* MTWeatherAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MTWeatherAppUITests.swift; sourceTree = "<group>"; };
 		2DCE42702BE39B67005EB40A /* MTWeatherAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MTWeatherAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2DCE427D2BE3A034005EB40A /* spec.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = spec.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +107,7 @@
 				2DCE42562BE39B67005EB40A /* Assets.xcassets */,
 				2DCE42582BE39B67005EB40A /* LaunchScreen.storyboard */,
 				2DCE425B2BE39B67005EB40A /* Info.plist */,
+				2DCE427D2BE3A034005EB40A /* spec.md */,
 			);
 			path = MTWeatherApp;
 			sourceTree = "<group>";
@@ -437,7 +439,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4TY934SUCG;
+				DEVELOPMENT_TEAM = 84X4KN99MS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MTWeatherApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -465,7 +467,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 4TY934SUCG;
+				DEVELOPMENT_TEAM = 84X4KN99MS;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MTWeatherApp/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
